@@ -1,2 +1,1 @@
-# outfit-recommender
-A simple outfit recommendation system using Python.
+This Project is the Outfit recommender system. in this project we use python
